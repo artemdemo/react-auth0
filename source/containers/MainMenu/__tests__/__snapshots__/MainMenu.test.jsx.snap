@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<MainMenu> Render 1`] = `
+<ul
+  className="mt-3"
+>
+  <li>
+    <a
+      href="/"
+      onClick={[Function]}
+    >
+      Main page
+    </a>
+  </li>
+  <li>
+    <a
+      href="/second"
+      onClick={[Function]}
+    >
+      Second page
+    </a>
+  </li>
+</ul>
+`;
